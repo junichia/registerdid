@@ -6,6 +6,9 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
+    "@decentralized-identity/did-auth-jose": "^0.1.13",
+    "openssl": "^1.1.0",
+    "pem-jwk": "^2.0.0",
     "request": "^2.88.0"
   },
   "devDependencies": {},
